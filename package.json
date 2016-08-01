@@ -1,5 +1,5 @@
 {
-  "name": "react-component",
+  "name": "imrememberlee-react-component",
   "version": "0.0.0",
   "description": "Tutorial on how to write React component in ES6 and publishing",
   "main": "src",
@@ -27,5 +27,16 @@
     "react-dom": "^15.2.1",
     "rimraf": "^2.5.0",
     "style-loader": "^0.13.0"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrememberlee/react-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imrememberlee/react-component/issues"
+  },
+  "homepage": "https://github.com/imrememberlee/react-component#readme"
 }
